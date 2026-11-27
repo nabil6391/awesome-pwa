@@ -21,6 +21,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps (Open Source)
 
+* [AshuTeacher](https://ashuteacher.vercel.app) - AI Voice Blackboard, 195-country syllabus academy, PDF/photo exam solver & Thesis Research Studio PWA ([GitHub](https://github.com/sanzaya-p/ashuteacher))
 * [Demo PWA](https://github.com/gokulkrishh/demo-progressive-web-app)
 * [GitHub Explorer](https://github.com/trungdq88/github-explorer)
 * [Notella](https://github.com/siddharthkp/notella)
